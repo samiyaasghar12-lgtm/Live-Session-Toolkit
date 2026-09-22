@@ -63,6 +63,10 @@ Live-Session-Toolkit/
     ├── tests/
     ├── requirements.txt
     └── .env.example
+
+
+<img width="778" height="349" alt="5" src="https://github.com/user-attachments/assets/c96aa705-c1d2-439c-ba7f-bece01ba3a2d" />
+
 Installation & Setup
 1. Clone the Repository
 git clone <your-github-repository-url>
