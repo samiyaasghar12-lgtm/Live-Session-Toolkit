@@ -41,6 +41,20 @@ A full-stack web application designed to provide a centralized platform for crea
 
 ## App Preview
 
+
+
+<img width="1546" height="650" alt="image" src="https://github.com/user-attachments/assets/cb07ad95-c55b-4858-ab29-c0e87bc1edfa" />
+
+<img width="1556" height="706" alt="image" src="https://github.com/user-attachments/assets/dfd4b760-c7de-4daf-9c68-661df526c402" />
+
+<img width="1622" height="652" alt="image" src="https://github.com/user-attachments/assets/78fd84d2-f2ce-424f-90b4-72f79fc908b8" />
+
+<img width="1440" height="659" alt="image" src="https://github.com/user-attachments/assets/ece58587-fa54-4de3-8d72-94e6c9efe179" />
+
+
+
+
+
 ## Project Structure
 
 ```text
@@ -63,9 +77,6 @@ Live-Session-Toolkit/
     ├── tests/
     ├── requirements.txt
     └── .env.example
-
-
-<img width="778" height="349" alt="5" src="https://github.com/user-attachments/assets/c96aa705-c1d2-439c-ba7f-bece01ba3a2d" />
 
 Installation & Setup
 1. Clone the Repository
